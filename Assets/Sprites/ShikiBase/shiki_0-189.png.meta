@@ -167,9 +167,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable:
       shiki_0-189_0: 83067622593552062
       shiki_0-189_1: 6342613241002497120
+=======
+    nameFileIdTable: {}
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

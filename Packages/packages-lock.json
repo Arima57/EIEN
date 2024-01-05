@@ -57,7 +57,11 @@
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
       "source": "builtin",
       "dependencies": {}
     },
@@ -74,7 +78,11 @@
     },
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.tilemap": "1.0.0",
@@ -102,6 +110,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.ads": {
       "version": "4.4.2",
       "depth": 0,
@@ -130,6 +139,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
     "com.unity.burst": {
       "version": "1.8.11",
       "depth": 1,
@@ -211,6 +222,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
@@ -218,6 +230,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
     "com.unity.profiling.core": {
       "version": "1.0.2",
       "depth": 1,
@@ -225,6 +239,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.purchasing": {
       "version": "4.10.0",
       "depth": 0,
@@ -238,6 +253,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
     "com.unity.render-pipelines.core": {
       "version": "16.0.4",
       "depth": 1,
@@ -279,6 +296,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.services.analytics": {
       "version": "4.4.0",
       "depth": 1,
@@ -301,6 +319,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
     "com.unity.shadergraph": {
       "version": "16.0.4",
       "depth": 1,
@@ -378,6 +398,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.10",
       "depth": 0,
@@ -388,6 +409,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

@@ -56,5 +56,9 @@
         "temp/": true,
         "Temp/": true
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "EIEN.sln"
+=======
+    "dotnet.defaultSolution": "Eien.sln"
+>>>>>>> a45e11cb6813c5f48ef7180021be9095b85c5b14
 }
